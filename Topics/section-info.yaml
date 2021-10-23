@@ -1,0 +1,18 @@
+content:
+- Identity testing
+- Set
+- If statement
+- Else statement
+- Split and join
+- Load module
+- Errors
+- Exceptions
+- Escaping in regexps
+- Regexp sets and ranges
+- Reading files
+- Tokenization
+- Defaultdict and Counter
+- How to read the documentation
+- How to read a traceback
+- Search in a string
+- String formatting
